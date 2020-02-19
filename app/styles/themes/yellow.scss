@@ -1,0 +1,11 @@
+$primary: #ffff00;
+
+ActionBar {
+  background-color: darken($primary, 20%);
+  color: #000000;
+}
+
+StackLayout {
+  background-color: $primary;
+}
+
